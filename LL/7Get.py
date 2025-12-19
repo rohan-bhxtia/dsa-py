@@ -35,9 +35,7 @@ ll.append(3)
 ll.append(44)
 
 get= ll.Get(0)
-print(get.value)##  
-#testing
-,.,
+print(get.value)
 
 
 
