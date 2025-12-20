@@ -38,4 +38,3 @@ get= ll.Get(0)
 print(get.value)
 
 
-..          fg
