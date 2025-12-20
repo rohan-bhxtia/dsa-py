@@ -36,7 +36,7 @@ class linkedlist:
         for i in range (index):
             temp = temp.next
         temp = new_node
-        new
+        
 
 
                    
